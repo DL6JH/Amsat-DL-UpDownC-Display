@@ -81,5 +81,4 @@ On exit, size/position of the window and the actual settings are preserved.
 
 *73 de DL6JH*<br>
 
-![UpC](/UPC_mac.png "UpC")<br>
 
